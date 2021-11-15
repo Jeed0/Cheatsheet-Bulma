@@ -1,4 +1,4 @@
-# Introduction-Bulma
+# Bulma
 
 ## Sheatsheet avec une petite introduction sur Bulma 
  
